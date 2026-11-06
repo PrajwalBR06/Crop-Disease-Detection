@@ -141,10 +141,11 @@ confidence %, severity, and the suggested remedy.
 
 _Fill this in after training._
 
-- **Test accuracy:** ____%
+- **Test accuracy:** 98.50%
 - **Confusion matrix:**
 
-  ![Confusion Matrix](models/confusion_matrix.png)
+  ![Confusion Matrix]<img width="1050" height="900" alt="image" src="https://github.com/user-attachments/assets/e29a04ae-fb55-4bcc-ba5a-ef0a484c32da" />
+
 
 - **Notes / observations:** ________________________________________________
 
