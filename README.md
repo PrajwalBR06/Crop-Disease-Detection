@@ -144,10 +144,9 @@ _Fill this in after training._
 - **Test accuracy:** 98.50%
 - **Confusion matrix:**
 
-  ![Confusion Matrix]<img width="1050" height="900" alt="image" src="https://github.com/user-attachments/assets/e29a04ae-fb55-4bcc-ba5a-ef0a484c32da" />
+  ![Confusion Matrix]![Error Screenshot](https://github.com)
 
 
-- **Notes / observations:** ________________________________________________
 
 ---
 
