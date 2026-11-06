@@ -146,7 +146,6 @@ _Fill this in after training._
 
   ![Confusion Matrix](models/confusion_matrix.png)
 
-- **Notes / observations:** ________________________________________________
 
 ---
 
