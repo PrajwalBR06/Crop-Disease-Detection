@@ -144,8 +144,8 @@ _Fill this in after training._
 - **Test accuracy:** 98.50%
 - **Confusion matrix:**
 
-  ![Confusion Matrix]![Error Screenshot](https://github.com)
-
+  ![Confusion Matrix]!
+https://file+.vscode-resource.vscode-cdn.net/c%3A/Users/DELL/OneDrive/Desktop/crop-disease-assistant/models/confusion_matrix.png?version%3D1793972138325
 
 
 ---
